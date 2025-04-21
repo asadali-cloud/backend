@@ -250,4 +250,6 @@ export {registerUser,
      changeCurrentpassword,
      getCurrentUser,
      updateAccountDtails,
-}
+     updateUserCoverImage,
+     updateUserAvater,
+    }
